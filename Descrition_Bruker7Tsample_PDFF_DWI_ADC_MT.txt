@@ -1,0 +1,6 @@
+Description:
+Preclin MRI samples repository provides examples of
+Bruker7T native and DICOM samples for mouse leg MRI of multi-echo 
+proton-density fat-fraction (PDFF), 2-b-value diffusion weighted imaging (DWI) & derived
+apparent diffusion coefficient (ADC) maps, and 3D FLASH magentization transfer (MT) "on"
+and "off" scans.
